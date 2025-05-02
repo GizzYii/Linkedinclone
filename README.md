@@ -3,6 +3,12 @@
 This is a **static visual clone** of the LinkedIn homepage built using **HTML**, **CSS**, and **Bootstrap**.  
 It was created to practice responsive layout design and styling with Bootstrap components. This project focuses **only on the visual design** and **does not include any interactivity or functionality**.
 
+**Note:**  
+> This project was inspired by the core design and structure of popular platforms such as LinkedIn
+> While the overall layout and functionality are similar to the originals, this is not an exact clone.  
+> Certain sections were intentionally modified, simplified, or customized to support my learning process.  
+> These changes include minor layout differences, style adjustments, and creative touches.  
+> The project was built purely for educational purposes and has no commercial intent.
 ---
 
 ## 📸 Screenshot
