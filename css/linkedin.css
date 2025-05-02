@@ -19,10 +19,11 @@
 .mediatext {
   margin-left: 5px;
 }
-#leftPanel , #leftPanel2 {
- margin-left: -15px;
-}
 
+#leftPanel,
+#leftPanel2 {
+  margin-left: -15px;
+}
 
 button {
   color: white;
@@ -51,10 +52,14 @@ button {
   margin-top: 3px;
   font-weight: lighter;
 }
-.navbar-nav ,.nav-item ,.nav-link {
+
+.navbar-nav,
+.nav-item,
+.nav-link {
   text-align: center;
   padding: 0;
 }
+
 .menutext:hover {
   color: black;
 }
@@ -189,23 +194,15 @@ button.ref:hover {
     align-items: center;
   }
 
-  
   form {
     display: flex;
-   
-    
+
     padding-right: 18rem;
-  
+
     max-width: 40px;
   }
 
-
-  
   .navbar-brand {
-   margin-left: -3rem;
+    margin-left: -3rem;
   }
-
-  
 }
-
- 
